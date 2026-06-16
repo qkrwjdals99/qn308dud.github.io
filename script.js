@@ -1,7 +1,7 @@
 const calendar = document.getElementById("calendar");
 
 const events = {
-1:"한국도착",
+1:"SOOP 생방 낮 12시 ON 오후 3시쯤 예정 준밧드 합방 ",
 2:"휴방",
 3:"무수페페데이",
 4:"수익신고",
